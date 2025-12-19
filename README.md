@@ -1,4 +1,5 @@
 # Adaptive Quantum-IoT Encryption Framework
+> A simulation-based project exploring adaptive IoT security using quantum key distribution and entropy-driven key refresh.
 
 ## Overview
 Modern IoT systems move massive amounts of sensitive data, yet most still rely on long-lived cryptographic keys that quietly weaken over time. This project tackles that gap by integrating **quantum key distribution (BB84)** with **adaptive, entropy-driven security** for IoT communication.
