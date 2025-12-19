@@ -7,7 +7,7 @@ Instead of treating encryption as a static layer, this framework makes security 
 
 ---
 
-## Why This Project Is Different
+## Why This Project Is Unique
 Most IoT security solutions stop at *strong encryption*.  
 This work focuses on **when encryption should change** and **why**.
 
