@@ -80,7 +80,7 @@ git clone https://github.com/VarriSneha/adaptive-quantum-iot-encryption.git
 cd adaptive-quantum-iot-encryption
 pip install -r requirements.txt
 
-
+---
 ## Author
 **Varri Sneha**  
 B.Tech in Electronics and Communication Engineering  
