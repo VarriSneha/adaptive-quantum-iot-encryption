@@ -6,6 +6,10 @@ Modern IoT systems move massive amounts of sensitive data, yet most still rely o
 Instead of treating encryption as a static layer, this framework makes security **self-adjusting**, using quantum-generated keys that evolve based on real-time randomness and system behavior.
 
 ---
+## System Architecture
+
+![System Architecture](assets/architecture.png)
+
 
 ## Why This Project Is Unique
 Most IoT security solutions stop at *strong encryption*.  
@@ -51,6 +55,19 @@ Each layer is decoupled yet coordinated, enabling flexibility and scalability.
 - Secure communication latency maintained under **22 ms**
 - Scaled to a **200-node IoT network** without entropy degradation
 - Demonstrated resistance to key reuse and long-term predictability
+
+---
+## Simulation Results
+
+### QRNG Entropy Over Time
+![Entropy Over Time](assets/qrng entropy over time.png)
+
+### Key Refresh Events
+![Key Refresh Events](assets/key refresh events.png)
+
+### Latency Analysis
+![Latency Over Time](assets/latency over time.png)
+
 
 ---
 
