@@ -84,6 +84,11 @@ Each layer is decoupled yet coordinated, enabling flexibility and scalability.
 - Hybridization with post-quantum cryptographic schemes
 
 ---
+## Key Takeaways
+- Adaptive key refresh maintains consistently high entropy
+- Security adaptation introduces minimal latency overhead
+- Demonstrates feasibility of quantum-inspired IoT security
+---
  ## Author
 **Varri Sneha**  
 B.Tech in Electronics and Communication Engineering  
