@@ -67,6 +67,13 @@ Each layer is decoupled yet coordinated, enabling flexibility and scalability.
 - Hybridization with post-quantum cryptographic schemes
 
 ---
+ ## Author
+**Varri Sneha**  
+B.Tech in Electronics and Communication Engineering  
+IIIT Manipur
+
+
+---
 
 ## How to Run the Simulation
 
@@ -79,9 +86,3 @@ Each layer is decoupled yet coordinated, enabling flexibility and scalability.
 git clone https://github.com/VarriSneha/adaptive-quantum-iot-encryption.git
 cd adaptive-quantum-iot-encryption
 pip install -r requirements.txt
-
----
-## Author
-**Varri Sneha**  
-B.Tech in Electronics and Communication Engineering  
-IIIT Manipur
