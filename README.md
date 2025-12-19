@@ -68,6 +68,19 @@ Each layer is decoupled yet coordinated, enabling flexibility and scalability.
 
 ---
 
+## How to Run the Simulation
+
+### Prerequisites
+- Python 3.8+
+- pip
+
+### Installation
+```bash
+git clone https://github.com/VarriSneha/adaptive-quantum-iot-encryption.git
+cd adaptive-quantum-iot-encryption
+pip install -r requirements.txt
+
+
 ## Author
 **Varri Sneha**  
 B.Tech in Electronics and Communication Engineering  
